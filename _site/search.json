@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-02-21T18:12:21-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Criando blog com o pacote Distill",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-02-21T18:12:23-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
