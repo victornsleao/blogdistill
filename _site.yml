@@ -2,7 +2,7 @@ name: "."
 title: "Criando blog com o pacote Distill"
 description: |
   Criando blog com o pacote Distill
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
